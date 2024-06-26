@@ -1,10 +1,1 @@
-# OpenAQAir
-
-## Commit Framework
-code (name of file) : change made
-data (name of file) : type of data pushed
-docs (name of file) : documentation added
-frustration (name of file) : code that is not working
-resolved (name of file) : frustration overcome
-
-purple
+This was a project done on Spring semester of 2024 and the collaborators played an essential part to the completion of the task.This project aimed to analyze air quality across 6 cities and generate insights on the data.The data was sourced from OPENAQ Website which provides real time data for air quality. Apart from manual analysis,we also incorporated the llama 2 model from ollama with Retrieval-Augmented Generation to query questions about our data.The model was run on local servers.If you have ideas on how you can contribute to this project feel free to reach out  :)
